@@ -1,0 +1,4 @@
+# 3. Teszteset: Összes torpedó egyszerre
+GT4500,10,0.0,10,0.0
+TORPEDO,ALL
+EXIT

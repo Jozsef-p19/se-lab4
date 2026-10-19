@@ -1,0 +1,5 @@
+#4. Teszteset: Lövés minddel, majd megpróbálni eggyel
+GT4500,10,0.0,10,0.0
+TORPEDO,ALL
+TORPEDO,SINGLE
+EXIT
