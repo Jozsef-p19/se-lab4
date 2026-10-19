@@ -1,0 +1,5 @@
+# Elsődleges lő, utána másodlagos jönne, de üres, így megint elsődleges lő
+GT4500,2,0.0,0,0.0
+TORPEDO,SINGLE
+TORPEDO,SINGLE
+EXIT
