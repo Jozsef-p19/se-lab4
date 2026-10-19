@@ -1,0 +1,5 @@
+# Elsődleges kiürül, másodlagos is üres, majd újabb próbálkozás
+GT4500,1,0.0,0,0.0
+TORPEDO,SINGLE
+TORPEDO,SINGLE
+EXIT
