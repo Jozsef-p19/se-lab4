@@ -1,0 +1,4 @@
+# 1. Teszteset: Sima lövés, van torpedó
+GT4500,10,0.0,10,0.0
+TORPEDO,SINGLE
+EXIT
